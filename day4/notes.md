@@ -18,7 +18,7 @@ Python workspaces can be local or virtual environments. A local environment is t
     sudo apt install python3-venv
     # create a virtual env
     python3 -m venv my_test_environment
-    # activate the veritual env
+    # activate the virtual env
     source my_test_environment/bin/activate
     # deactivate the virtual env
     deactivate

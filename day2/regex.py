@@ -3,7 +3,7 @@ import re
 text = "python is awesome!"
 pattern = r"is"
 
-# matches the beggining of the string
+# matches the beginning of the string
 match = re.match(pattern, text)
 if match:
     print("Match found:", match.group())

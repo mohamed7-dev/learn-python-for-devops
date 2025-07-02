@@ -1,7 +1,7 @@
 # Notes
 
 ## Command Line Arguments
-- in python recieving command line arguments is done via `sys` built-in module.
+- in python receiving command line arguments is done via `sys` built-in module.
 - passing arguments to a python program is preferred when info is not super secure but if we are
 dealing with API keys `env variables` would be more secure.
 

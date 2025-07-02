@@ -7,7 +7,7 @@ print("float division",a//b)
 
 # identity operators
 x = [1, 2, 3]
-y = x  # now y referes to the same location in memory
+y = x  # now y refers to the same location in memory
 result1 = x is y
 print("is x in the same mem location as y",result1)
 
